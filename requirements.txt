@@ -1,7 +1,7 @@
 pyrogram
 tgcrypto
 pyromod
-httpx
+httpx==0.26.0
 speedtest-cli
 psutil
 disk==2021.6.29
