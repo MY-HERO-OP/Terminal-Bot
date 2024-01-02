@@ -4,7 +4,7 @@ pyromod
 httpx
 speedtest-cli
 psutil
-disk
+disk==2021.6.29
 gitpython
 requests
 scikit-learn==1.3.2
